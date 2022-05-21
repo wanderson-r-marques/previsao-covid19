@@ -2,8 +2,6 @@
 > **Trabalho realizado para a Pós-Graduação da UFPE** <br>
 > Analise dos dados de COVID19 utilizando series temporais para previsão de casos futuros
 
-## Visualização
-
 ![](previews.png)
 
 ## Ferramentas
